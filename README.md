@@ -3,6 +3,8 @@
 A web application that searches for fast-food restaurants by name
 within 20 kilometers of central Boston using the Geoapify Places API.
 
+<img width="600" height="247" alt="Boston Fast Food API" src="https://github.com/user-attachments/assets/dc0e6d0d-e191-4653-b441-88ecde2f1282" />
+
 ## Features
 
 - Searches for fast-food restaurants by name.
